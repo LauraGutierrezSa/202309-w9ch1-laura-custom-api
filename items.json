@@ -3,52 +3,62 @@
     {
       "id": 1,
       "name": "The Lost Boys",
-      "year": "1979"
+      "year": "1987",
+      "image": "https://freeimage.host/i/61bjcg5ncsl-ac-uf8941000-ql80.JBHxias"
     },
     {
       "id": 2,
       "name": "El Pianista",
-      "year": "2002"
+      "year": "2002",
+      "image": "https://freeimage.host/i/el-pianista.JBHxtwl"
     },
     {
       "id": 3,
-      "name": "El Bosque",
-      "year": "2004"
+      "name": "The Village",
+      "year": "2004",
+      "image": "https://freeimage.host/i/JBHxQ9f"
     },
     {
       "id": 4,
       "name": "Seven",
-      "year": "1995"
+      "year": "1995",
+      "image": "https://freeimage.host/i/seven-se7en-734875211-large.JBHxmnS"
     },
     {
       "id": 5,
       "name": "El Sexto sentido",
-      "year": "1999"
+      "year": "1999",
+      "image": "https://freeimage.host/i/sixth-sense.JBHxpM7"
     },
     {
       "id": 6,
       "name": "El Señor de los Anillos",
-      "year": "2001"
+      "year": "2001",
+      "image": "https://freeimage.host/i/83967252b9249d87243b933872e50782152c762f936f158f1301e4e29f03.JBHAYes"
     },
     {
       "id": 7,
       "name": "Labyrinth",
-      "year": "1985"
+      "year": "1985",
+      "image": "https://freeimage.host/i/mv5bmjm2mde4otqwov5bml5banbnxkftztgwnjgxmtg2nze-v1-fmjpg-ux1.JBHxDt2"
     },
     {
       "id": 8,
       "name": "El Laberinto del Fauno",
-      "year": "2006"
+      "year": "2006",
+      "image": "https://freeimage.host/i/JBH5nPp"
     },
     {
       "id": 9,
       "name": "El Señor de los Anillos: el retorno del Rey",
-      "year": "2003"
+      "year": "2003",
+      "image": "https://freeimage.host/i/p-esdlaelretornodelrey.JBHATqN"
     },
     {
       "id": 10,
       "name": "Beetlejuice",
-      "year": "1988"
+      "year": "1988",
+      "image": "https://freeimage.host/i/bitelchaus.JBHxZu4"
     }
   ]
 }
